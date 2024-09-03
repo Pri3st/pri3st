@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just a noob
 
 - 🔱 Security Dilettante
 - ♜ Working on the Military
