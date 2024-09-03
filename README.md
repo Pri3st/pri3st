@@ -5,6 +5,8 @@
 - ☁️ Currently learning cloud security
 - 🍻 Looking to collaborate on AD and cloud-related project
 
+![kerberoscat](https://github.com/user-attachments/assets/f1465943-4960-4ecd-8a55-cdbf9221f04b)
+
  <details>
   <summary><b>🛠️ Contributions</b></summary>
   <br/>
