@@ -1,4 +1,5 @@
 ## 🩸 OnlyHacks 🩸
+### Forgive me for not understanding what the 💻 and 🔢 are saying.
 
 - 🔱 Security Dilettante
 - ♜ Working on the Military
