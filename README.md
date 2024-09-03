@@ -8,7 +8,7 @@
 ![kerberoscat](https://github.com/user-attachments/assets/f1465943-4960-4ecd-8a55-cdbf9221f04b)
 
  <details>
-  <summary><b>🛠️ Contributions</b></summary>
+  <summary><b>🛠️ Contributions (because I cannot code myself 🤡) </b></summary>
   <br/>
    
 | Project                                                                        | Project Short Description                                                                                                             | Contribution                                                                                                                |
