@@ -3,7 +3,7 @@
 - 🔱 Security Dilettante
 - ♜ Working on the Military
 - ☁️ Currently learning cloud security
-- 🍻 Looking to collaborate on AD and cloud-related project
+- 🍻 Looking to collaborate on AD and cloud-related projects
 
 ![kerberoscat](https://github.com/user-attachments/assets/f1465943-4960-4ecd-8a55-cdbf9221f04b)
 
