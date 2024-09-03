@@ -1,4 +1,4 @@
-## 🩸 Just a noob 🩸
+## 🩸 OnlyHacks 🩸
 
 - 🔱 Security Dilettante
 - ♜ Working on the Military
