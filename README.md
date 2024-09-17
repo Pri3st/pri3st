@@ -21,3 +21,4 @@
 | [AzSubEnum](https://github.com/yuyudhn/AzSubEnum)                              | AzSubEnum is a specialized subdomain enumeration tool tailored for Azure services.                                                    | Added enhanced recon capabilities related to Blob Containers that allow Anonymous Access and publicly accessible Blobs |
 | [Internal All The Things](https://github.com/swisskyrepo/InternalAllTheThings) | Active Directory and Internal Pentest Cheatsheets                                                                                     | Updated the Network Pivoting Techniques to include instructions for [ligolo-ng](https://github.com/nicocha30/ligolo-ng)     |
 
+![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
