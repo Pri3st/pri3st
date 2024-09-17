@@ -1,13 +1,15 @@
 ## 🩸 OnlyHacks 🩸
 ### Forgive me for not understanding what the 💻 and 🔢 are saying.
+![363882650-f1465943-4960-4ecd-8a55-cdbf9221f04b](https://github.com/user-attachments/assets/fa480e6a-a6b4-42ff-8c5a-4ddef66c739e)
 
 - 🔱 Security Dilettante
 - ♜ Working on the Military
 - ☁️ Currently learning cloud security
 - 🍻 Looking to collaborate on AD and cloud-related projects
 
-![363882650-f1465943-4960-4ecd-8a55-cdbf9221f04b](https://github.com/user-attachments/assets/fa480e6a-a6b4-42ff-8c5a-4ddef66c739e)
+![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
+#### Stats & other boring stuff
  <details>
   <summary><b>🛠️ Contributions (because I cannot code myself 🤡) </b></summary>
   <br/>
@@ -21,4 +23,3 @@
 | [AzSubEnum](https://github.com/yuyudhn/AzSubEnum)                              | AzSubEnum is a specialized subdomain enumeration tool tailored for Azure services.                                                    | Added enhanced recon capabilities related to Blob Containers that allow Anonymous Access and publicly accessible Blobs |
 | [Internal All The Things](https://github.com/swisskyrepo/InternalAllTheThings) | Active Directory and Internal Pentest Cheatsheets                                                                                     | Updated the Network Pivoting Techniques to include instructions for [ligolo-ng](https://github.com/nicocha30/ligolo-ng)     |
 
-![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
