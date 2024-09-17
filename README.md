@@ -3,8 +3,8 @@
 ![363882650-f1465943-4960-4ecd-8a55-cdbf9221f04b](https://github.com/user-attachments/assets/fa480e6a-a6b4-42ff-8c5a-4ddef66c739e)
 
 - 🔱 Security Dilettante
-- ♜ Working on the Military
-- ☁️ Currently learning cloud security
+- ♟ Military Officer
+- ⛈️ Currently doing cloud stuff
 - 🍻 Looking to collaborate on AD and cloud-related projects
 #### Stats & other boring stuff
 ![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=radical&show_icons=true&hide_border=false&count_private=true)
