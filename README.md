@@ -7,7 +7,9 @@
 - ☁️ Currently learning cloud security
 - 🍻 Looking to collaborate on AD and cloud-related projects
 #### Stats & other boring stuff
-![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Pri3st's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pri3st&theme=radical&hide_border=false)
+![Pri3st's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pri3st&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
  <details>
   <summary><b>🛠️ Contributions </b></summary>
