@@ -6,12 +6,11 @@
 - ♜ Working on the Military
 - ☁️ Currently learning cloud security
 - 🍻 Looking to collaborate on AD and cloud-related projects
-
+#### Stats & other boring stuff
 ![Pri3st's Stats](https://github-readme-stats.vercel.app/api?username=Pri3st&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-#### Stats & other boring stuff
  <details>
-  <summary><b>🛠️ Contributions (because I cannot code myself 🤡) </b></summary>
+  <summary><b>🛠️ Contributions </b></summary>
   <br/>
    
 | Project                                                                        | Project Short Description                                                                                                             | Contribution                                                                                                                |
