@@ -1,4 +1,4 @@
-## 🩸 OnlyHacks 🩸
+## 🩸 Sip, Puff, Secure 🩸
 ### Forgive me for not understanding what the 💻 and 🔢 are saying.
 ![363882650-f1465943-4960-4ecd-8a55-cdbf9221f04b](https://github.com/user-attachments/assets/fa480e6a-a6b4-42ff-8c5a-4ddef66c739e)
 
